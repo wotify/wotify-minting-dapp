@@ -263,7 +263,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       {/* Top Section */}
-      <h1 className={styles.h1}>Wotify Minting DApp</h1>    {/*title*/}
+      <h1 className={styles.h1}>Wotify Minting DApp - Test</h1>    {/*title*/}
       {/*description*/}
       <p className={styles.describe}>     
         <b>Wotify Premium Key</b> is a free-to-mint community and benefits key that gives you a 50% minting discount for  Wotify collection and more benefits and discounts in future collections.{" "}
